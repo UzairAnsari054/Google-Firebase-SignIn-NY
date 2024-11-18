@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "511739777168",
+    "project_id": "signin-app-ny",
+    "storage_bucket": "signin-app-ny.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:511739777168:android:91ffa0b1efcfdf31c4c815",
+        "android_client_info": {
+          "package_name": "com.example.firebase_google_sign_in_ny"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "511739777168-9pdvs2rotvj4pfaf0p67647jho1g43a3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebase_google_sign_in_ny",
+            "certificate_hash": "29f500d46c26ab0194dc69b78bf41f93d8da896e"
+          }
+        },
+        {
+          "client_id": "511739777168-svrofcofm5gd313p7d05cen8k9dnk8pj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAscgvs3l_Zx3PybMaW5bAMrPz4hLgD-Z0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "511739777168-svrofcofm5gd313p7d05cen8k9dnk8pj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
